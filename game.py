@@ -9,7 +9,6 @@ from personas import persona as personas
 def cls():
     os.system('cls')
 
-# TESTEee
 
 # Capitulo 1: Mais um dia normal
 ## CASA
@@ -28,7 +27,7 @@ def iniciacao():
 if __name__ == "__main__":
     while True:
         cls()
-        print("Neste mundo você possui a liberdade para fazer diversas coisas como: Andar, Olhar, Pegar e outras ações que seram apresentadas ao longo dessa aventura!")
+        print("Neste mundo você possui a liberdade para fazer diversas coisas como: Andar, Olhar, Pegar e outras ações que serão apresentadas ao longo dessa aventura!")
         op = input("Digite 1 para começarmos!")
         if op:
             iniciacao()
