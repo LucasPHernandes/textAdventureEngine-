@@ -6,7 +6,7 @@ import os
 import decor as dec  # Relacionado a aparência do texto
 from personas import persona as personas
 
-
+dwdwdw
 def cls():
     os.system('cls')
 
