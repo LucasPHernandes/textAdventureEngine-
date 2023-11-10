@@ -10,7 +10,7 @@ def cls():
     os.system('cls')
 
 
-# Capitulo 1: Mais um dia normal
+# Capitulo 1: Mais um dia normal MAIS UM DIA
 ## CASA
 def cap1Acordando():
     cls()
